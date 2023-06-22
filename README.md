@@ -39,4 +39,6 @@ Use this url as base url [http://localhost:3040](http://localhost:3040) to acces
 ## View Application 
 
 [My Todos Application](https://react-todos-app-theta.vercel.app/).
+> Login with Test User - username: Test, password: test123
+>  or [Register with new user](https://react-todos-app-theta.vercel.app/register)
 
